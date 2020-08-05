@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on My personal blog - Ameesh</title>
-    <link>https://example.com/about/</link>
+    <link>https://ameeshblog.com/about/</link>
     <description>Recent content in Abouts on My personal blog - Ameesh</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 05 Aug 2020 09:39:40 +0400</lastBuildDate>
     
-	<atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ameeshblog.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Again</title>
-      <link>https://example.com/about/again/</link>
+      <link>https://ameeshblog.com/about/again/</link>
       <pubDate>Wed, 05 Aug 2020 09:39:40 +0400</pubDate>
       
-      <guid>https://example.com/about/again/</guid>
+      <guid>https://ameeshblog.com/about/again/</guid>
       <description>Testing with a second markdown file.</description>
     </item>
     
     <item>
       <title>Try</title>
-      <link>https://example.com/about/try/</link>
+      <link>https://ameeshblog.com/about/try/</link>
       <pubDate>Wed, 05 Aug 2020 09:38:35 +0400</pubDate>
       
-      <guid>https://example.com/about/try/</guid>
+      <guid>https://ameeshblog.com/about/try/</guid>
       <description>Testing about directories.</description>
     </item>
     
