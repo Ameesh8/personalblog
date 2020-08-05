@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ameeshblog.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-08-05T09:39:40+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameeshblog.com/about/again/</loc>
+    <loc>/about/again/</loc>
     <lastmod>2020-08-05T09:39:40+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameeshblog.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-08-05T09:39:40+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameeshblog.com/about/try/</loc>
+    <loc>/about/try/</loc>
     <lastmod>2020-08-05T09:38:35+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameeshblog.com/test/</loc>
+    <loc>/test/</loc>
     <lastmod>2020-08-05T09:30:09+04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameeshblog.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ameeshblog.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

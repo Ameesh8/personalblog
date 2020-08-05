@@ -1,4 +1,4 @@
 title = "My personal blog - Ameesh"
-baseURL = "https://ameeshblog.com/"
+
 theme = "bilberry-hugo-theme"
 
