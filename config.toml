@@ -1,4 +1,4 @@
 baseURL = "http://ameeshblog.org/"
 languageCode = "en-us"
 title = "My Personal Blog - Ameesh"
-theme = "bilberry-hugo-theme"
+theme = "dimension"
