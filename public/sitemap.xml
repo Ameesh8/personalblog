@@ -3,11 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ameeshblog.org/categories/</loc>
+    <loc>http://ameeshblog.org/about/</loc>
+    <lastmod>2020-08-05T09:39:40+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ameeshblog.org/about/again/</loc>
+    <lastmod>2020-08-05T09:39:40+04:00</lastmod>
   </url>
   
   <url>
     <loc>http://ameeshblog.org/</loc>
+    <lastmod>2020-08-05T09:39:40+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ameeshblog.org/about/try/</loc>
+    <lastmod>2020-08-05T09:38:35+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ameeshblog.org/test/</loc>
+    <lastmod>2020-08-05T09:30:09+04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ameeshblog.org/categories/</loc>
   </url>
   
   <url>
