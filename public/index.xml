@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My personal blog - Ameesh</title>
-    <link>/</link>
+    <link>ameeshblog.netlify.app/</link>
     <description>Recent content on My personal blog - Ameesh</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 05 Aug 2020 09:39:40 +0400</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="ameeshblog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Again</title>
-      <link>/about/again/</link>
+      <link>ameeshblog.netlify.app/about/again/</link>
       <pubDate>Wed, 05 Aug 2020 09:39:40 +0400</pubDate>
       
-      <guid>/about/again/</guid>
+      <guid>ameeshblog.netlify.app/about/again/</guid>
       <description>Testing with a second markdown file.</description>
     </item>
     
     <item>
       <title>Try</title>
-      <link>/about/try/</link>
+      <link>ameeshblog.netlify.app/about/try/</link>
       <pubDate>Wed, 05 Aug 2020 09:38:35 +0400</pubDate>
       
-      <guid>/about/try/</guid>
+      <guid>ameeshblog.netlify.app/about/try/</guid>
       <description>Testing about directories.</description>
     </item>
     

@@ -1,4 +1,4 @@
 title = "My personal blog - Ameesh"
-baseUrl = ""
+baseURL = "ameeshblog.netlify.app"
 theme = "bilberry-hugo-theme"
 
