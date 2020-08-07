@@ -11,21 +11,21 @@
     
     
     <item>
-      <title>Again</title>
+      <title>Welcome!</title>
       <link>https://ameeshboodhna.me/about/again/</link>
       <pubDate>Wed, 05 Aug 2020 09:39:40 +0400</pubDate>
       
       <guid>https://ameeshboodhna.me/about/again/</guid>
-      <description>Testing with a second markdown file.</description>
+      <description>Hey! I&amp;rsquo;m Ameesh, and welcome to my blog.</description>
     </item>
     
     <item>
-      <title>Try</title>
+      <title>My Github</title>
       <link>https://ameeshboodhna.me/about/try/</link>
       <pubDate>Wed, 05 Aug 2020 09:38:35 +0400</pubDate>
       
       <guid>https://ameeshboodhna.me/about/try/</guid>
-      <description>Testing about directories.</description>
+      <description>https://github.com/Ameesh8</description>
     </item>
     
   </channel>
