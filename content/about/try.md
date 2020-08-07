@@ -1,6 +1,6 @@
 ---
-title: "Try"
-date: 2020-08-05T09:38:35+04:00
-draft: false
+title: My Github
+date: 2020-08-05T09:38:35.000+04:00
+
 ---
-Testing about directories.
+[https://github.com/Ameesh8](https://github.com/Ameesh8/ "https://github.com/Ameesh8/")
