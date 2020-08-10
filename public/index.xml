@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My personal blog - Ameesh</title>
@@ -6,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 05 Aug 2020 09:39:40 +0400</lastBuildDate>
     
-        <atom:link href="https://ameeshboodhna.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ameeshboodhna.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -25,6 +26,15 @@
       
       <guid>https://ameeshboodhna.me/about/try/</guid>
       <description>https://github.com/Ameesh8</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://ameeshboodhna.me/test/</link>
+      <pubDate>Wed, 05 Aug 2020 09:30:09 +0400</pubDate>
+      
+      <guid>https://ameeshboodhna.me/test/</guid>
+      <description>YOOOOOOOOOOOOOOOOO Welcome to my blog!</description>
     </item>
     
   </channel>
