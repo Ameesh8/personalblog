@@ -14,20 +14,11 @@
     
     <item>
       <title>Welcome!</title>
-      <link>https://ameeshboodhna.me/about/again/</link>
+      <link>https://ameeshboodhna.me/about/about/</link>
       <pubDate>Wed, 05 Aug 2020 09:39:40 +0400</pubDate>
       <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
-      <guid>https://ameeshboodhna.me/about/again/</guid>
-      <description>Hey! I&amp;rsquo;m Ameesh, and welcome to my blog.</description>
-    </item>
-    
-    <item>
-      <title>My Github</title>
-      <link>https://ameeshboodhna.me/about/try/</link>
-      <pubDate>Wed, 05 Aug 2020 09:38:35 +0400</pubDate>
-      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
-      <guid>https://ameeshboodhna.me/about/try/</guid>
-      <description>https://github.com/Ameesh8</description>
+      <guid>https://ameeshboodhna.me/about/about/</guid>
+      <description>Hey! I&amp;rsquo;m Ameesh, a 2nd year student at SUPINFO University. I created this website by using Hugo, a static site generator and then deployed it using Netlify. I manage its contents using Forestry.io as well as Netlify CMS.</description>
     </item>
     
   </channel>
