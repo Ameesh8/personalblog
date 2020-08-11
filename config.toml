@@ -2,3 +2,30 @@ title = "My personal blog"
 baseUrl = "https://ameeshboodhna.me/"
 theme = "beautifulhugo"
 
+[Params]
+  homeTitle = "My personal blog" 
+  subtitle = "Hey! I'm Ameesh and welcome to my personal blog!"
+  mainSections = ["posts"]
+  logo = "img/avatar-icon.png" 
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  hideAuthor = true
+
+[Author]
+  name = "Ameesh Booodhna"
+  email = "am-eesh44@hotmail.com"
+  facebook = "ameesh4"
+  github = "Ameesh8"
+
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 2

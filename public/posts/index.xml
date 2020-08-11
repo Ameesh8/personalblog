@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My personal blog</title>
+    <link>https://ameeshboodhna.me/posts/</link>
+    <description>Recent content in Posts on My personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>am-eesh44@hotmail.com (Ameesh Booodhna)</managingEditor>
+    <webMaster>am-eesh44@hotmail.com (Ameesh Booodhna)</webMaster>
+    <lastBuildDate>Tue, 11 Aug 2020 07:37:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://ameeshboodhna.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New</title>
+      <link>https://ameeshboodhna.me/posts/2020-08-11-new/</link>
+      <pubDate>Tue, 11 Aug 2020 07:37:52 +0000</pubDate>
+      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
+      <guid>https://ameeshboodhna.me/posts/2020-08-11-new/</guid>
+      <description>Writing a post in Netlify CMS.</description>
+    </item>
+    
+  </channel>
+</rss>

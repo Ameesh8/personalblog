@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ameeshboodhna.me/about/</loc>
-    <lastmod>2020-08-05T09:39:40+04:00</lastmod>
+    <loc>https://ameeshboodhna.me/</loc>
+    <lastmod>2020-08-11T07:37:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ameeshboodhna.me/</loc>
+    <loc>https://ameeshboodhna.me/posts/2020-08-11-new/</loc>
+    <lastmod>2020-08-11T07:37:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameeshboodhna.me/posts/</loc>
+    <lastmod>2020-08-11T07:37:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ameeshboodhna.me/about/</loc>
     <lastmod>2020-08-05T09:39:40+04:00</lastmod>
   </url>
   

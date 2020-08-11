@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My personal blog - Ameesh</title>
+    <title>Categories on My personal blog</title>
     <link>https://ameeshboodhna.me/categories/</link>
-    <description>Recent content in Categories on My personal blog - Ameesh</description>
+    <description>Recent content in Categories on My personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>am-eesh44@hotmail.com (Ameesh Booodhna)</managingEditor>
+    <webMaster>am-eesh44@hotmail.com (Ameesh Booodhna)</webMaster>
     
 	<atom:link href="https://ameeshboodhna.me/categories/index.xml" rel="self" type="application/rss+xml" />
     

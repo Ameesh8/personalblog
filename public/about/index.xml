@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on My personal blog - Ameesh</title>
+    <title>Abouts on My personal blog</title>
     <link>https://ameeshboodhna.me/about/</link>
-    <description>Recent content in Abouts on My personal blog - Ameesh</description>
+    <description>Recent content in Abouts on My personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>am-eesh44@hotmail.com (Ameesh Booodhna)</managingEditor>
+    <webMaster>am-eesh44@hotmail.com (Ameesh Booodhna)</webMaster>
     <lastBuildDate>Wed, 05 Aug 2020 09:39:40 +0400</lastBuildDate>
     
 	<atom:link href="https://ameeshboodhna.me/about/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>Welcome!</title>
       <link>https://ameeshboodhna.me/about/again/</link>
       <pubDate>Wed, 05 Aug 2020 09:39:40 +0400</pubDate>
-      
+      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
       <guid>https://ameeshboodhna.me/about/again/</guid>
       <description>Hey! I&amp;rsquo;m Ameesh, and welcome to my blog.</description>
     </item>
@@ -23,7 +25,7 @@
       <title>My Github</title>
       <link>https://ameeshboodhna.me/about/try/</link>
       <pubDate>Wed, 05 Aug 2020 09:38:35 +0400</pubDate>
-      
+      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
       <guid>https://ameeshboodhna.me/about/try/</guid>
       <description>https://github.com/Ameesh8</description>
     </item>

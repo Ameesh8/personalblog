@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My personal blog - Ameesh</title>
+    <title>My personal blog</title>
     <link>https://ameeshboodhna.me/</link>
-    <description>Recent content on My personal blog - Ameesh</description>
+    <description>Recent content on My personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Aug 2020 09:39:40 +0400</lastBuildDate>
+    <managingEditor>am-eesh44@hotmail.com (Ameesh Booodhna)</managingEditor>
+    <webMaster>am-eesh44@hotmail.com (Ameesh Booodhna)</webMaster>
+    <lastBuildDate>Tue, 11 Aug 2020 07:37:52 +0000</lastBuildDate>
     
 	<atom:link href="https://ameeshboodhna.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>New</title>
+      <link>https://ameeshboodhna.me/posts/2020-08-11-new/</link>
+      <pubDate>Tue, 11 Aug 2020 07:37:52 +0000</pubDate>
+      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
+      <guid>https://ameeshboodhna.me/posts/2020-08-11-new/</guid>
+      <description>Writing a post in Netlify CMS.</description>
+    </item>
+    
+    <item>
       <title>Welcome!</title>
       <link>https://ameeshboodhna.me/about/again/</link>
       <pubDate>Wed, 05 Aug 2020 09:39:40 +0400</pubDate>
-      
+      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
       <guid>https://ameeshboodhna.me/about/again/</guid>
       <description>Hey! I&amp;rsquo;m Ameesh, and welcome to my blog.</description>
     </item>
@@ -23,7 +34,7 @@
       <title>My Github</title>
       <link>https://ameeshboodhna.me/about/try/</link>
       <pubDate>Wed, 05 Aug 2020 09:38:35 +0400</pubDate>
-      
+      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
       <guid>https://ameeshboodhna.me/about/try/</guid>
       <description>https://github.com/Ameesh8</description>
     </item>
@@ -32,7 +43,7 @@
       <title>Test</title>
       <link>https://ameeshboodhna.me/test/</link>
       <pubDate>Wed, 05 Aug 2020 09:30:09 +0400</pubDate>
-      
+      <author>am-eesh44@hotmail.com (Ameesh Booodhna)</author>
       <guid>https://ameeshboodhna.me/test/</guid>
       <description>YOOOOOOOOOOOOOOOOO Welcome to my blog!</description>
     </item>
