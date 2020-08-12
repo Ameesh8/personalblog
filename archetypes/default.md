@@ -1,6 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+author: "Ameesh Boodhna"
+type: ""
 date: {{ .Date }}
-draft: false
+subtitle: ""
+image: ""
+tags: []
 ---
+
 
